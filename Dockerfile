@@ -1,4 +1,4 @@
-FROM node:20-alpine
+FROM node:20-slim
 
 # Add metadata
 LABEL maintainer="ExecuteAutomation <info@executeautomation.com>"
